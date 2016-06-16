@@ -1,0 +1,36 @@
+/*
+
+Theme name:Sadeka
+Theme url:www.sadeka.com
+Author:Golam Rabbani
+version:1.2016
+author url:www.golamrabbani.com
+desicription:our final project in wordpress
+Tags:village,ct,bangladesh
+
+
+
+
+
+*/
+
+.item {
+    position: relative !important;
+    display: none !important;
+    -webkit-transition: .6s ease-in-out left;
+    -o-transition: .6s ease-in-out left;
+    transition: .6s ease-in-out left;
+         backface-visibility: hidden;
+}
+
+.active {
+     display: block !important;
+}
+
+.cause img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+  .modal-body .title-style-1 {color: rgb(31, 118, 189);} 
